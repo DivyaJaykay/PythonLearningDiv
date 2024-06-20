@@ -1,0 +1,5 @@
+name=input("Enter your first name")
+print(name)
+name1=input("Enter your last name")
+print(name1)
+print(name,name1,sep="-",end="/t")
